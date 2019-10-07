@@ -15,3 +15,4 @@
 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+|Intro to Bash| n/a |[youtube](https://www.youtube.com/watch?v=fXbkHaPrkF8)|
