@@ -16,3 +16,4 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Intro to Bash| n/a |[youtube](https://www.youtube.com/watch?v=fXbkHaPrkF8)|
+|Python 101|[solution](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-1/week-1/day-2-python-1)|[youtube](https://www.youtube.com/watch?v=kilgQH4hLhQ)|
