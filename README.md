@@ -3,6 +3,7 @@
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
 [Class Repository](https://github.com/learn-co-students/dc-ds-100719)
 [Blog Submission Form](https://forms.gle/ZY6mA2pyRRnhUiem9)
+[Additional Resources](https://drive.google.com/open?id=1qYxioNRi3tJmA-PrsdJZm16RDEnyk_fsLLETlCRsScU)
 
 
 
