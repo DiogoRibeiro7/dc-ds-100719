@@ -21,3 +21,4 @@
 |Python 102|[solution](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-1/week-1/day-3-python-2)| n/a|
 |Numpy|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-1/week-1/day-4-libraries-numpy/libraries-numpy-enkeboll.ipynb)|[youtube](https://youtu.be/nNr-dUMHMIQ)|
 |Pandas pt.1|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-1/week-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=3jo2w4BHiCc)|
+|Pandas pt.2|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-1/week-2/day-6-pandas-part-2/manipulating_data_with_pandas_Ali.ipynb)|[youtube](https://youtu.be/QWK1XvmqfVk)|
