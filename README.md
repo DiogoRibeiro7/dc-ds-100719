@@ -19,5 +19,5 @@
 |Intro to Bash| n/a |[youtube](https://www.youtube.com/watch?v=fXbkHaPrkF8)|
 |Python 101|[solution](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-1/week-1/day-2-python-1)|[youtube](https://www.youtube.com/watch?v=kilgQH4hLhQ)|
 |Python 102|[solution](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-1/week-1/day-3-python-2)| n/a|
-|Numpy||[youtube](https://youtu.be/nNr-dUMHMIQ)|
-|Pandas pt.1|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-1/week-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=3jo2w4BHiCc)]
+|Numpy|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-1/week-1/day-4-libraries-numpy/libraries-numpy-enkeboll.ipynb)|[youtube](https://youtu.be/nNr-dUMHMIQ)|
+|Pandas pt.1|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-1/week-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=3jo2w4BHiCc)|
