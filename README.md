@@ -42,6 +42,6 @@
 # Module 2
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|SQL |[solution(https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-1/day-1-sql-pandas/sql-to-pandas-solutions.ipynb)||
+|SQL |[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-1/day-1-sql-pandas/sql-to-pandas-solutions.ipynb)||
 |Intro to OOP|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-1/day-2-object-oriented-programming/OOP.ipynb)||
 |JSON & API|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-1-json-apis/json-api-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=hJcqRn7UkUE)|
