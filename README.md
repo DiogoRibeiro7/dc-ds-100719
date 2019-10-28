@@ -39,7 +39,7 @@
 |Partner Git Coach Lab| n/a |[youtube](https://youtu.be/uGZVttInQ1M)|
 |Quality Presentations|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-1/week-2/day-5-quality-presentations)|[youtube](https://youtu.be/sqwY7Hlg0Qg)|
 
-# Module 2
+# Module 2 🌿
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |SQL |[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-1/day-1-sql-pandas/sql-to-pandas-solutions.ipynb)||
