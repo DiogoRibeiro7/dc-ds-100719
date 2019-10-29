@@ -46,3 +46,4 @@
 |Intro to OOP|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-1/day-2-object-oriented-programming/OOP.ipynb)||
 |JSON & API|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-1-json-apis/json-api-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=hJcqRn7UkUE)|
 |OOP pt.2|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-1-more-oop/oop-2-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=3c0tidOXXq0)|
+|Webscraping|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-2-webscraping/webscraping.ipynb)|[youtube](https://www.youtube.com/watch?v=yfleNKC--Ig)|
