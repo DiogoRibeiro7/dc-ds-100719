@@ -48,3 +48,8 @@
 |OOP pt.2|[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-1-more-oop/oop-2-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=3c0tidOXXq0)|
 |Webscraping|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-2-webscraping/webscraping-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=yfleNKC--Ig)|
 |NoSQL & MongoDB|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-4-nosql-mongo/nosql.ipynb)|[youtube](https://www.youtube.com/watch?v=HlQc7iar0RA)|
+
+# Module 3 🍁
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+|Probability|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-1-probability/probability_1007.ipynb)|[youtube](https://youtu.be/5kfwir3rvIY)|
