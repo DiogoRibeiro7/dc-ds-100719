@@ -53,3 +53,4 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Probability|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-1-probability/probability_1007.ipynb)|[youtube](https://youtu.be/5kfwir3rvIY)|
+|Random Variables|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-2-Random_variables/Distributions.ipynb) |[youtube](https://youtu.be/qSku113_G3s)
