@@ -55,3 +55,4 @@
 |Probability|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-1-probability/probability_1007.ipynb)|[youtube](https://youtu.be/5kfwir3rvIY)|
 |Random Variables|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-2-Random_variables/Distributions.ipynb) |[youtube](https://youtu.be/qSku113_G3s)|
 |Normal & Binomial Distributions | [notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-3-Sampling_distribution_CLT/Normal_Binomial_Sampling_Distributions.ipynb) | [youtube](https://youtu.be/b3-r5N-ZFqY)|
+|Probability and Distributions Coach Lab | [google sheet](https://docs.google.com/document/d/1lTD4KbUtPoZUKmJGZOk2KXx_ub9J1w7C-t-Rrgtb9-g/edit?usp=sharing) | [youtube]( https://youtu.be/llhsgMtzsuw) |
