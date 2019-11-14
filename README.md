@@ -60,3 +60,4 @@
 |Hypothesis Testing T-Tests|  [notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-5-Hypothesis%20Testing-T-tests/hypothesis_testing_final.ipynb)|[youtube](https://youtu.be/FcV-lgt4i18)|
 |Resampling|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-1-resampling)|[youtube](https://youtu.be/RwgjK5LH2SA)|
 |Bayes Theorem|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-2-Bayes_theorem)|[youtube](https://youtu.be/YXDoWrl8Kd0)|
+|Effect-Size|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-3-Power_effect_size)|[youtube](https://youtu.be/lQNFKHdBgpo)|
