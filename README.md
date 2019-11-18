@@ -63,3 +63,4 @@
 |Effect-Size|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-3-Power_effect_size)|[youtube](https://youtu.be/lQNFKHdBgpo)|
 |Simple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-4-simple_linear_regression)|[youtube](https://youtu.be/hgjagUMu8Lc)|
 |Multiple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-5-multiple_linear_regression)|youtube|
+|Monte Carlo Discussion(AMA)||[Zoom](https://wework.zoom.us/recording/detail?meeting_id=AfLq5eRdQBCJ2PVZTosOtw%3D%3D)|
