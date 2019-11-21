@@ -24,7 +24,7 @@
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzY0bGtyZ2xtbzRncmk2ZzlsdDdldWM2ODhjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23AD1457&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK" style="border-width:0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Lecture Code + Recording
-# Module 1 🌱
+# Module 1
 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
@@ -39,7 +39,7 @@
 |Partner Git Coach Lab| n/a |[youtube](https://youtu.be/uGZVttInQ1M)|
 |Quality Presentations|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-1/week-2/day-5-quality-presentations)|[youtube](https://youtu.be/sqwY7Hlg0Qg)|
 
-# Module 2 🌿
+# Module 2
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |SQL |[solution](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-1/day-1-sql-pandas/sql-to-pandas-solutions.ipynb)||
@@ -49,7 +49,7 @@
 |Webscraping|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-2-webscraping/webscraping-enkeboll.ipynb)|[youtube](https://www.youtube.com/watch?v=yfleNKC--Ig)|
 |NoSQL & MongoDB|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-2/week-2/day-4-nosql-mongo/nosql.ipynb)|[youtube](https://www.youtube.com/watch?v=HlQc7iar0RA)|
 
-# Module 3 🍁
+# Module 3
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Probability|[notebook](https://github.com/learn-co-students/dc-ds-100719/blob/master/module-3/week-1/day-1-probability/probability_1007.ipynb)|[youtube](https://youtu.be/5kfwir3rvIY)|
@@ -66,7 +66,7 @@
 |Monte Carlo Discussion(AMA)||[Zoom](https://wework.zoom.us/recording/detail?meeting_id=AfLq5eRdQBCJ2PVZTosOtw%3D%3D)|
 
 
-# Module 4 🌲
+# Module 4
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Bias Variance|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/day-1-Polynomial_Bias-Variance)|[youtube](https://youtu.be/qZtPH9EQbHw)|
