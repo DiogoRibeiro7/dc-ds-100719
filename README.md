@@ -64,3 +64,9 @@
 |Simple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-4-simple_linear_regression)|[youtube](https://youtu.be/hgjagUMu8Lc)|
 |Multiple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-5-multiple_linear_regression)|youtube|
 |Monte Carlo Discussion(AMA)||[Zoom](https://wework.zoom.us/recording/detail?meeting_id=AfLq5eRdQBCJ2PVZTosOtw%3D%3D)|
+
+
+# Module 4 🌲
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+|Bias Variance|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/day-1-Polynomial_Bias-Variance)|[youtube](https://youtu.be/qZtPH9EQbHw)|
