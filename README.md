@@ -7,8 +7,7 @@
 
 ## Blogs
 |  Name | Blog #1 Link | Blog #2 Link |
-| --- | --- | --- |
-
+|:---|:---|:---|
 |  Irving Campbell | https://medium.com/@irving.campbell/genetic-algorithms-demystified-71d664afd961 | https://medium.com/@irving.campbell/mona-lisa-smile-334a28abf0b |
 |  Allison Lee | https://medium.com/@allison.alee/broadcasting-in-numpy-a-primer-87cc5d299afa | https://medium.com/@allison.alee/data-science-and-natural-disasters-9488d2559877 |
 |  Nicole Bills | https://medium.com/@nicolejaneway/lessons-from-machine-learning-pioneer-predata-625c6de4b076 | https://medium.com/@nicolejaneway/data-science-of-evictions-874a41f3cc36 |
