@@ -8,7 +8,7 @@
 ## Blogs
 |  Name | Blog #1 Link | Blog #2 Link |
 | --- | --- | --- |
-|  Chau Nguyen | https://medium.com/@chau.g.nguyen/intro-to-amazon-mechanical-turk-5df217b9cb64?source=friends_link&sk=be4420bc148774bf5795989889275310 |  |
+
 |  Irving Campbell | https://medium.com/@irving.campbell/genetic-algorithms-demystified-71d664afd961 | https://medium.com/@irving.campbell/mona-lisa-smile-334a28abf0b |
 |  Allison Lee | https://medium.com/@allison.alee/broadcasting-in-numpy-a-primer-87cc5d299afa | https://medium.com/@allison.alee/data-science-and-natural-disasters-9488d2559877 |
 |  Nicole Bills | https://medium.com/@nicolejaneway/lessons-from-machine-learning-pioneer-predata-625c6de4b076 | https://medium.com/@nicolejaneway/data-science-of-evictions-874a41f3cc36 |
@@ -17,7 +17,7 @@
 |  Seoho Hahm | https://medium.com/@seoho.h/decoding-the-brain-by-coding-1-c4f8aa7118ac | https://medium.com/@seoho.h/decoding-the-brain-by-coding-2-85903d0a90e7 |
 |  Buddy Bernhard | https://medium.com/@budsmaterial/using-data-science-python-and-an-rc-car-to-create-a-proof-of-concept-autonomous-vehicle-85aa6a90d47b | https://medium.com/@budsmaterial/applying-data-to-a-map-a65816147c56 |
 |  Brad Johnson | https://medium.com/@climatebrad/fixing-up-your-gits-6389884f94ae | https://medium.com/@climatebrad/hiding-your-large-datasets-from-github-14a3674c539c |
-|  Stuart Murphy | https://medium.com/@thespud56/is-there-a-better-way-to-find-the-wines-you-love-9d1d0cd698fd | https://medium.com/@thespud56/gimme-wine-data-cc874f95b8a1 |
+
 
 ## Calendar
 
@@ -62,7 +62,7 @@
 |Bayes Theorem|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-2-Bayes_theorem)|[youtube](https://youtu.be/YXDoWrl8Kd0)|
 |Effect-Size|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-3-Power_effect_size)|[youtube](https://youtu.be/lQNFKHdBgpo)|
 |Simple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-4-simple_linear_regression)|[youtube](https://youtu.be/hgjagUMu8Lc)|
-|Multiple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-5-multiple_linear_regression)|youtube|
+|Multiple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-3/week-2/day-5-multiple_linear_regression)|youtube(https://www.youtube.com/watch?v=HL5PSwhm9cE&feature=youtu.be)|
 |Monte Carlo Discussion(AMA)||[Zoom](https://wework.zoom.us/recording/detail?meeting_id=AfLq5eRdQBCJ2PVZTosOtw%3D%3D)|
 
 
