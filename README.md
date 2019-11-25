@@ -70,3 +70,5 @@
 |:---|:---|:---|
 |Bias Variance|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/day-1-Polynomial_Bias-Variance)|[youtube](https://youtu.be/qZtPH9EQbHw)|
 | Ridge/Lasso | [notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/day-2-Regularization) | [youtube](https://youtu.be/kna7gxsv5Y0)
+|Gradient Decent|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-2-GradientDescent)| [youtube]|
+|Logistic Regression| [notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-3-Logistic_Regression)|[youtube](https://youtu.be/SiIDixbNRD8)|
