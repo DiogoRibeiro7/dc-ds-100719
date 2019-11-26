@@ -72,4 +72,6 @@
 | Ridge/Lasso | [notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/day-2-Regularization) | [youtube](https://youtu.be/kna7gxsv5Y0)
 |Gradient Decent|[notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-2-GradientDescent)| [youtube](https://youtu.be/5XfG2V4Nc3E)|
 |Logistic Regression| [notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-3-Logistic_Regression)|[youtube](https://youtu.be/SiIDixbNRD8)|
+| Linear Model w/Categorical Variables| [code]() | [youtube](https://youtu.be/KyUgDlDl8wc) | 
+|Classification Metrics| [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-4-Classification_metrics) | [youtube](https://youtu.be/lb1dSUzWRCo) |
 
