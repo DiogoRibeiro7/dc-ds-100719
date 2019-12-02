@@ -74,4 +74,5 @@
 |Logistic Regression| [notebook](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-3-Logistic_Regression)|[youtube](https://youtu.be/SiIDixbNRD8)|
 | Linear Model w/Categorical Variables| [code]() | [youtube](https://youtu.be/KyUgDlDl8wc) | 
 |Classification Metrics| [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-4-Classification_metrics) | [youtube](https://youtu.be/lb1dSUzWRCo) |
+|Feature Selection| [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/day-5-Feature_Selection/feature_selection) | [youtube](https://youtu.be/RlfARmirnbw)|
 
