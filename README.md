@@ -76,3 +76,10 @@
 |Classification Metrics| [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/Day-4-Classification_metrics) | [youtube](https://youtu.be/lb1dSUzWRCo) |
 |Feature Selection| [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-4/week-1/day-5-Feature_Selection/feature_selection) | [youtube](ttps://youtu.be/fvbPpT8OtKQ)|
 
+# Module 5
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+| Decision Trees|                |[youtube](https://youtu.be/QUkaZmKJFHU)|
+|Random Forest|                  |[youtube](https://youtu.be/22OBuDZlOIw)|
+|Boosting|                       |[youtube](https://youtu.be/bP9t9cxmfL0)|
+|SVM|                            |[youtube]()|
