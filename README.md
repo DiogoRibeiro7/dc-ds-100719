@@ -83,3 +83,4 @@
 |Random Forest|                  |[youtube](https://youtu.be/22OBuDZlOIw)|
 |Boosting|                       |[youtube](https://youtu.be/bP9t9cxmfL0)|
 |SVM|                            |[youtube]()|
+|PCA|                            |[youtube](https://youtu.be/uEIflceIEnY)
