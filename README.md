@@ -89,7 +89,7 @@
 # Module 6 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-| Graphs & Networks | | [youtube](https://youtu.be/_k02r5LP2sI) |
-| NLP pt.1 | | [youtube](https://www.youtube.com/KU_K69B_dC0)|
-| NLP pt.2 | | [youtube](https://youtu.be/joRVaiPGj_Y) |
+| Graphs & Networks | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-1-networks-graphs) | [youtube](https://youtu.be/_k02r5LP2sI) |
+| NLP pt.1 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-2-nlp-1) | [youtube](https://www.youtube.com/KU_K69B_dC0)|
+| NLP pt.2 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-2-nlp-2) | [youtube](https://youtu.be/joRVaiPGj_Y) |
 
