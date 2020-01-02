@@ -85,3 +85,11 @@
 |SVM|                            |[youtube]()|
 |PCA|                            |[youtube](https://youtu.be/uEIflceIEnY)|
 |Pipelines|                      |[youtube]( https://youtu.be/7u_TlUD8ymQ)|
+
+# Module 6 
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+| Graphs & Networks | | [youtube](https://youtu.be/_k02r5LP2sI) |
+| NLP pt.1 | | [youtube](https://www.youtube.com/KU_K69B_dC0)|
+| NLP pt.2 | | [youtube](https://youtu.be/joRVaiPGj_Y) |
+
