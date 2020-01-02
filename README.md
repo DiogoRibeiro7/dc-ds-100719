@@ -79,12 +79,15 @@
 # Module 5
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-| Decision Trees|                |[youtube](https://youtu.be/QUkaZmKJFHU)|
-|Random Forest|                  |[youtube](https://youtu.be/22OBuDZlOIw)|
-|Boosting|                       |[youtube](https://youtu.be/bP9t9cxmfL0)|
-|SVM|                            |[youtube]()|
-|PCA|                            |[youtube](https://youtu.be/uEIflceIEnY)|
-|Pipelines|                      |[youtube]( https://youtu.be/7u_TlUD8ymQ)|
+| Decision Trees|[code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-1-Decision_trees)|[youtube](https://youtu.be/QUkaZmKJFHU)|
+|Random Forest|[code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-2-Random_forests)|[youtube](https://youtu.be/22OBuDZlOIw)|
+|Boosting|[code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-3-Boosting)|[youtube](https://youtu.be/bP9t9cxmfL0)|
+|SVM|[code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-4-SVM)|[youtube]()|
+|PCA|[code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-6-PCA)|[youtube](https://youtu.be/uEIflceIEnY)|
+|Pipelines|[code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-7-pipelines)|[youtube]( https://youtu.be/7u_TlUD8ymQ)|
+| Hyper Parameter Tuning - Coach Lab | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/hyperparameter_tuning_coach_lab) | |
+| Hadoop & Spark | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-8-hadoop-pyspark) | [youtube](https://www.youtube.com/watch?v=ZiB7vvi8KNs&list=PLc6AmvC5ZybyIR5_KkkNdcVYMNjZkpbik&index=23&t=0s) |
+| Recommendation Systems | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-5/week-1/day-9-recommendation-systems) | [youtube](https://www.youtube.com/watch?v=rY28ojjKouo&list=PLc6AmvC5ZybyIR5_KkkNdcVYMNjZkpbik&index=24&t=0s) |
 
 # Module 6 
 | Topic                                  | Code                | Video                |
