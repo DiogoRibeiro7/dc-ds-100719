@@ -96,4 +96,5 @@
 | NLP pt.1 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-2-nlp-1) | [youtube](https://www.youtube.com/KU_K69B_dC0)|
 | NLP pt.2 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-2-nlp-2) | [youtube](https://youtu.be/joRVaiPGj_Y) |
 | Intro to AWS| [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6) | [youtube](https://www.youtube.com/watch?v=g-W7D_l_GOs) |
+| Neural Nets pt.1 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-4-nn-1) | [youtube](https://youtu.be/2JeNJQcDIYE)
 
