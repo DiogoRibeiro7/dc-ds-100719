@@ -99,3 +99,4 @@
 | Neural Nets pt.1 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-4-nn-1) | [youtube](https://youtu.be/d-V03EKZVZM)
 | Neural Nets pt.2 | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-5-nn-2) | [youtube]()
 | CNN | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-6-nn-3) | [youtube](https://www.youtube.com/watch?v=wahF8svQ0q8) |
+| Coach Lab - Cloud Notebooks | n/a | [video](https://youtu.be/qnjiFjy1vt4)
