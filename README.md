@@ -101,3 +101,4 @@
 | CNN | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-6-nn-3) | [youtube](https://www.youtube.com/watch?v=wahF8svQ0q8) |
 | Coach Lab - Cloud Notebooks | n/a | [youtube](https://youtu.be/qnjiFjy1vt4)
 | LSTM | [code](https://github.com/learn-co-students/dc-ds-100719/tree/master/module-6/day-7-lstm) | [youtube](https://youtu.be/ooR85q4DX10) |
+| Flask & Heroku | n/a | [youtube](https://youtu.be/WNWr4G3QaaM)|
