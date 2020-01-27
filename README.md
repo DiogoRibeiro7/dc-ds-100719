@@ -6,17 +6,18 @@
 [Additional Resources](https://drive.google.com/open?id=1qYxioNRi3tJmA-PrsdJZm16RDEnyk_fsLLETlCRsScU)
 
 ## Blogs
-|  Name | Blog #1 Link | Blog #2 Link |
-|:---|:---|:---|
-|  Irving Campbell | [Genetic Algorithms Demystified](https://medium.com/@irving.campbell/genetic-algorithms-demystified-71d664afd961) | [Mona Lisa Smile](https://medium.com/@irving.campbell/mona-lisa-smile-334a28abf0b) |
-|  Allison Lee | [Broadcasting in Numpy](https://medium.com/@allison.alee/broadcasting-in-numpy-a-primer-87cc5d299afa) | [Data Science and Natural Distasters](https://medium.com/@allison.alee/data-science-and-natural-disasters-9488d2559877) |
-|  Nicole Bills | [Lessons From Machine Learning Pioneer](https://medium.com/@nicolejaneway/lessons-from-machine-learning-pioneer-predata-625c6de4b076) | [Data Science of Evictions](https://medium.com/@nicolejaneway/data-science-of-evictions-874a41f3cc36) |
-|  Anil Onal | [How is Economics Embracing 'Big Data'?](https://medium.com/p/10de60630f4c/edit) | [Imputing Missing Data](https://medium.com/p/40eb95f0b9d1/edit) |
-|  Steven Dye | [Feather Files Faster](https://medium.com/@steven.p.dye/feather-files-faster-than-the-speed-of-light-d4666ce24387) | [Guessing The Power Of The Monte Carlo Method](https://medium.com/@steven.p.dye/just-keep-guessing-the-power-of-the-monte-carlo-method-f06bc6f33d19) |
-|  Seoho Hahm | [Decoding The Brain By Coding pt.1](https://medium.com/@seoho.h/decoding-the-brain-by-coding-1-c4f8aa7118ac) | [Decoding The Brain By Coding pt.2](https://medium.com/@seoho.h/decoding-the-brain-by-coding-2-85903d0a90e7) |
-|  Buddy Bernhard | [Creating A Proof of Concept of Autonoumous Vehicles](https://medium.com/@budsmaterial/using-data-science-python-and-an-rc-car-to-create-a-proof-of-concept-autonomous-vehicle-85aa6a90d47b) | [Applying Data To A Map](https://medium.com/@budsmaterial/applying-data-to-a-map-a65816147c56)|
-|  Brad Johnson | [Fixing Up Your Gits](https://medium.com/@climatebrad/fixing-up-your-gits-6389884f94ae) | [Hiding Your Large Datasets From Github](https://medium.com/@climatebrad/hiding-your-large-datasets-from-github-14a3674c539c) |
-
+|  Email Address | Name | Blog #1 Link | Blog #2 Link | Blog #3 Link | Blog #4 Link |
+| --- | --- | --- | --- | --- | --- |
+|  chau_g_nguyen@yahoo.com | Chau Nguyen | https://medium.com/@chau.g.nguyen/intro-to-amazon-mechanical-turk-5df217b9cb64?source=friends_link&sk=be4420bc148774bf5795989889275310 |  |  |  |
+|  irving.campbell@gmail.com | Irving Campbell | https://medium.com/@irving.campbell/genetic-algorithms-demystified-71d664afd961 | https://medium.com/@irving.campbell/mona-lisa-smile-334a28abf0b | https://medium.com/@irving.campbell/mona-lisa-smile-part-2-e10d0f8c306e |  |
+|  allison.alee@gmail.com | Allison Lee | https://medium.com/@allison.alee/broadcasting-in-numpy-a-primer-87cc5d299afa | https://medium.com/@allison.alee/data-science-and-natural-disasters-9488d2559877 | https://medium.com/@allison.alee/feature-selection-choices-choices-choices-4d7d8b72c655 | https://medium.com/@allison.alee/intro-to-h2o-a-tool-for-big-data-83632296ffd8 |
+|  bnicolebills@gmail.com | Nicole Bills | https://medium.com/@nicolejaneway/lessons-from-machine-learning-pioneer-predata-625c6de4b076 | https://medium.com/@nicolejaneway/data-science-of-evictions-874a41f3cc36 | https://medium.com/@nicolejaneway/walkthrough-how-to-work-with-kml-files-in-python-7f55632dcaeb | https://medium.com/@nicolejaneway/walkthrough-how-to-work-with-gis-files-in-python-pt-2-shapefiles-e3b534c6762c |
+|  anilca@gmail.com | Anil Onal | https://medium.com/p/10de60630f4c/edit | https://medium.com/p/40eb95f0b9d1/edit | https://medium.com/p/3f586db2544e/edit | https://medium.com/p/4f70850fceee/edit |
+|  steven.p.dye@gmail.com | Steven Dye | https://medium.com/@steven.p.dye/feather-files-faster-than-the-speed-of-light-d4666ce24387 | https://medium.com/@steven.p.dye/just-keep-guessing-the-power-of-the-monte-carlo-method-f06bc6f33d19 | https://medium.com/@steven.p.dye/when-contact-changes-minds-an-autopsy-cc7e3aedf32a | https://towardsdatascience.com/an-intro-to-kernels-9ff6c6a6a8dc?source=friends_link&sk=daca6e49cbb661c2460d77baa14e3076 |
+|  seoho.h@gmail.com | Seoho Hahm | https://medium.com/@seoho.h/decoding-the-brain-by-coding-1-c4f8aa7118ac | https://medium.com/@seoho.h/decoding-the-brain-by-coding-2-85903d0a90e7 | https://medium.com/@seoho.h/decoding-the-brain-by-coding-3-c24f24d0c7c3 | https://medium.com/@seoho.h/how-machine-learning-is-changing-the-game-of-art-forgery-detection-bc21650b77fb |
+|  bud.bernhard@gmail.com | Buddy Bernhard | https://medium.com/@budsmaterial/using-data-science-python-and-an-rc-car-to-create-a-proof-of-concept-autonomous-vehicle-85aa6a90d47b | https://medium.com/@budsmaterial/applying-data-to-a-map-a65816147c56 | https://medium.com/@budsmaterial/scrape-it-clean-it-show-it-off-f1e12b4d3c4 | https://medium.com/@budsmaterial/creating-voices-5042ad97563a |
+|  climatebrad@gmail.com | Brad Johnson | https://medium.com/@climatebrad/fixing-up-your-gits-6389884f94ae | https://medium.com/@climatebrad/hiding-your-large-datasets-from-github-14a3674c539c | https://medium.com/@climatebrad/fixing-up-your-gits-with-python-part-2-22f2586f9cf5 | https://medium.com/@climatebrad/fixing-up-your-gits-part-3-making-your-python-code-into-a-module-b5cb00655797 |
+|  stu.a.murphy@gmail.com | Stuart Murphy | https://medium.com/@thespud56/is-there-a-better-way-to-find-the-wines-you-love-9d1d0cd698fd | https://medium.com/@thespud56/gimme-wine-data-cc874f95b8a1 |  |  |
 
 ## Calendar
 
